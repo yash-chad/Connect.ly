@@ -9,3 +9,5 @@
   <li>ExpressJS</li>
   <li>Socket.io</li>
 </ul>
+<!--<h3>Pitcures from the project</h3>
+<img src="> --!>
